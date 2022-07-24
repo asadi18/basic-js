@@ -15,6 +15,9 @@ console.log(str)
 
 //But with Ternary Operator
 
+
 var n=10
 var result =n%2 ==0 ? 'EVEN' : 'ODD' // All condition in one line 
 console.log (result) // condition ? true side : False 
+
+
