@@ -3,5 +3,5 @@
 var a = false
 
 do {
-    console.log ('I am Running')
+    console.log('I am Running')
 } while (a)

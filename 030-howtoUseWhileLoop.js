@@ -11,14 +11,14 @@ while (i<10){
 */
 //Anothe way to write this code is 
 //Example-2
-let isRunning =true
-while (isRunning){
-    let rand = Math.floor(Math.random()*10+1)
-    if (rand==9){
+let isRunning = true
+while (isRunning) {
+    let rand = Math.floor(Math.random() * 10 + 1)
+    if (rand == 9) {
         console.log('This is working fine now')
-        isRunning=false
-    }else{
-console.log('Not Good '+rand)
+        isRunning = false
+    } else {
+        console.log('Not Good ' + rand)
 
     }
 }
