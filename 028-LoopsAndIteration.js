@@ -5,4 +5,4 @@
 
 2.While Loop 
 
-3. Do While Loop 
+3. Do While Loop */
