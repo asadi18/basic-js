@@ -1,20 +1,22 @@
+// we will invoke function here
+// using for loop 
 // this is the way to define a function
-/*
-function add (){
-    let a = 20
-    let b=30
-    console.log(a+b)
-}
-add (34,56)
-*/
+
 
 // without value to use it all time
-function add (a,b){
+function add (){
+    let a=20
+    let b=30
     
     console.log(a+b)
 }
-add (34,56)
 
+
+// using for loop 
+
+for (let i=0; i<=10;i++){
+    add()
+}
 // for doing sub 
 function sub(x,y){
     console.log(x-y)
